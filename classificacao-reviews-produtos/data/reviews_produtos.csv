@@ -1,0 +1,21 @@
+review_id,produto,review_text,nota,sentimento
+1,Smartphone X,"Produto excelente, rápido e com ótima bateria",5,positivo
+2,Notebook Pro,"Muito lento, travou no primeiro dia de uso",1,negativo
+3,Fone Bluetooth,"Som bom pelo preço, mas a bateria dura pouco",3,positivo
+4,Smartphone X,"Tela bonita, porém esquenta demais",2,negativo
+5,Tablet Plus,"Atendeu minhas expectativas, uso diariamente",4,positivo
+6,Notebook Pro,"Teclado parou de funcionar após uma semana",1,negativo
+7,Smartwatch Z,"Gostei bastante, leve e funcional",5,positivo
+8,Fone Bluetooth,"Produto horrível, não conecta direito",1,negativo
+9,Tablet Plus,"Bom custo benefício",4,positivo
+10,Smartphone X,"Péssima câmera e muito caro",2,negativo
+11,Notebook Pro,"Desempenho excelente para trabalho",5,positivo
+12,Smartwatch Z,"Atrasou a entrega e veio com defeito",1,negativo
+13,Fone Bluetooth,"Funciona bem, mas poderia ser melhor",3,positivo
+14,Tablet Plus,"Muito ruim, trava o tempo todo",1,negativo
+15,Smartphone X,"Estou satisfeito com a compra",4,positivo
+16,Notebook Pro,"Esquentando demais e barulhento",2,negativo
+17,Smartwatch Z,"Ótimo para exercícios",5,positivo
+18,Fone Bluetooth,"Não recomendo, qualidade péssima",1,negativo
+19,Tablet Plus,"Produto ok",3,positivo
+20,Smartphone X,"Veio com defeito e suporte não ajudou",1,negativo
